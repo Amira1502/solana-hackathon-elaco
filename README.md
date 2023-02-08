@@ -70,9 +70,16 @@ Use the `BLANK_README.md` to get started.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+As a Funder :
+1 Post A Bounty : Fund a well specified issue on your Github repo which is a good candidate for external contribution.
+2 Work With A Elacoiner : Provide a Elacoiner with a timeline and collaborate to complete the task.
+3 Grow Your Project : Merge the Elacoiner’s contribution, pay for a job well done, and grow a healthy open source ecosystem.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+As a Contributor :
+1  Find An Open Bounty : Whether it's Bugs, Features, or Security Issues, Elaco's Issue Explorer is the easiest way to find paid work in open source.
+2 Build Something Great : Select an open issue, work on a project, collaborate, build your skills, and contribute towards the open source projects.
+3 Get Paid : Payments are Ethereum-based, & released automatically after code is accepted by the bounty submitter.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,15 +87,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] ELACO TOKEN : 
+       * Withdraw them and exchange them to SOLANA; 
+       * Gouvernance DAO
+- [ ] NFT PROFILE : 
+      In ELACO, each profile is an NFT, all the user’s code on the network are linked to this profile, which allows : 
+       * Establish the authorship of his code 
+       * Keep it on your wallet
+       * Effectively fighting bot and fakes
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
