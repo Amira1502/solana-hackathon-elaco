@@ -124,9 +124,9 @@ As a Contributor :
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/amiranasri88) - nasriamira88@gmail.com
+Your Name - [@amiranasri88](https://twitter.com/amiranasri88) - nasriamira88@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Amira1502/solana-hackathon-elaco)
+Project Link: [https://github.com/Amira1502/solana-hackathon-elaco](https://github.com/Amira1502/solana-hackathon-elaco)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
