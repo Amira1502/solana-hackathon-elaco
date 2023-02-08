@@ -63,6 +63,8 @@ In ELACO, contributor can easily monetize their skills. Whether it's Bugs, Featu
 ## Usage
 
 As a Funder :
+<br />
+
 1 Post A Bounty : Fund a well specified issue on your Github repo which is a good candidate for external contribution.
 <br />
 2 Work With A Elacoiner : Provide a Elacoiner with a timeline and collaborate to complete the task.
