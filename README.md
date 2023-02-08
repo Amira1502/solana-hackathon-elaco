@@ -94,13 +94,28 @@ As a Contributor :
 ## Roadmap
 
 - [ ] ELACO TOKEN : 
+         <br />
        * Withdraw them and exchange them to SOLANA; 
+       * <br />
+
        * Gouvernance DAO
+       * <br />
+
 - [ ] NFT PROFILE : 
+      <br />
+
       In ELACO, each profile is an NFT, all the user’s code on the network are linked to this profile, which allows : 
+      <br />
+
        * Establish the authorship of his code 
+       * <br />
+
        * Keep it on your wallet
+       * <br />
+
        * Effectively fighting bot and fakes
+       * <br />
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
