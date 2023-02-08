@@ -43,17 +43,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+In ELACO, contributor can easily monetize their skills. Whether it's Bugs, Features, or Security Issues, Just select an open issue, work on a project, collaborate, build your skills, and get Paid on Solana after code is accepted by the bounty submitter.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -72,13 +64,25 @@ Use the `BLANK_README.md` to get started.
 
 As a Funder :
 1 Post A Bounty : Fund a well specified issue on your Github repo which is a good candidate for external contribution.
+<br />
 2 Work With A Elacoiner : Provide a Elacoiner with a timeline and collaborate to complete the task.
+<br />
+
 3 Grow Your Project : Merge the Elacoiner’s contribution, pay for a job well done, and grow a healthy open source ecosystem.
+<br />
 
 As a Contributor :
+<br />
+
 1  Find An Open Bounty : Whether it's Bugs, Features, or Security Issues, Elaco's Issue Explorer is the easiest way to find paid work in open source.
+<br />
+
 2 Build Something Great : Select an open issue, work on a project, collaborate, build your skills, and contribute towards the open source projects.
+<br />
+
 3 Get Paid : Payments are Ethereum-based, & released automatically after code is accepted by the bounty submitter.
+<br />
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
